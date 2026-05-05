@@ -15,6 +15,7 @@ Proyecto para Johan Granados de la materia Desarrollo de Apps Moviles es una tar
   <u1>
     <li>Las motos</li>
     <li>Los carros</li>
+    <li>Me gusta las bicicletas</li>
   </u1>
   <img src="img/Mimo.png" alt="Foto de perfil de Mario Solano">
 </body>
